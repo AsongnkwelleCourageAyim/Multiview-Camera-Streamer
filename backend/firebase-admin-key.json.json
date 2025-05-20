@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "multiview-video-streaming-app",
+  "private_key_id": "8e5f92bbfc4a5a0fa61213ed421db3fbce170f5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDBjWqu8qMXCNL2\nnqMu1m1xbGXdJPSPG/BfbB2w2E5B6D9yh6tZyOrECGvDR1WcoZQDjNM/UV38n97k\nqo1nYAcL/K75KFefPvyYa/KCcpwc2g7rJmTO0vlS3emyYQ6U5SbztjN8EbY86LAR\nQtUke2vuaOiAs2A5D45JysvBuuQB27oXsHBMgzYUDbGOJYKIy9DIkvkBIeHrcEwu\nFLbimpq25PRugw/bCkWnfYNMPBEILfaKtNANjiFo8CMsCgiZG07JAabCnpy2CZ8j\nirk5KR43pBgPhPD2XsuZ20FsV9sYVWJTvwGX0xkw4RuvNP8Olp/zDBIhj56c/EQD\n54RxDfuxAgMBAAECgf9vI8UesDT2BRsegfkx6+7sMlJLqezEQEbGhE6IPayyK6pD\nGaRK6hPkfPFkMJH4Xs+fOj4THaXaafKTW1vXAE0LlQzkBUZLKt/gphuazDTYXF40\nqNc56+s+qi6HPzQgS3USfI0TsRfz4ak4QCgjyrsvKw5W2KloGoaZ2NknZSmH5qMk\nWMiXSQiqAbfrNpDpp3s5SY9Yg5qsAzvmP3JN+7fh8RymQ1CgHBurFmHFRNDI8lE2\nV/KftDJLrhfIeT86lndYSvnaxXSAVqgFBnbebBD3iJ67V3JrBVBTaAWKYlQkAfw5\niPCEYcTTZqGhkjroUyeLo4hI2rF/L3d9NmAA7R0CgYEA9P+v9OhnPUnSrgA5a3G1\nPl+nJ0P2BYcLl80pcOSRj9yoHnFtYxSmkYTxjCBdff4Kyaqf2qSfFhuJBsT0riy2\njjZqM/HADFV3xt8kZ6jIWWXUy8wCLC41jdoPosJMedLPT0L9sjLQrpme8O18QO4k\nbKTo1xGnWQU4aAzNXxYcsusCgYEAyj5Xr76MFL34K70P0TYNLZ2Ro1uEw6/x7gBM\nMd+ucdWa4uQNB4b0tkNLcVLKZarE9N7uXfTcM1uMv0v5b9bpoxWfmN89zpioNa8v\nfUksow23ouBP9DiLO2d3bEDZGrKm8ZJ2I8Q7Y0Ne+fBjpqdRAQcYpW1GWeEeewIc\nH8EqjNMCgYAKgTQQMi7LB/FKmKPdoYB97igCnP1de07Z8WgHeSVsn69trrtb9jS2\nJJcexPx9PHlF8FTuUQSpNAEKE0PSfARP0LF5DLKJVNjP5B1xfGEqxBz9p/+n2Ute\ni60D84TH7GwLH/o0u80Kz3drKSOcvRk+t0tsfUtJm9mxTGs52n7chQKBgQCKQnJp\nt+dF6tT0+cwNZ1k8/QJqXg92RBstbNCqK9OzCKdZQzRRGAbFb13s+/9X35XEHX9x\nhgrfpU+kG4lL1u1kS00PElbLnPspsDjT+qlkUuVemOCwAdPVaZdvzylcohOVBF51\ndxpucslELv3BGZM8E6Davsige1D+IOQfJUw0dwKBgDNk+Vwmv1mckOjqs3iPXeew\n21PsQUp5CKpLceUvjPXkKBLfdVzLElTgy/X6fyfBT2X4V83wk18D0c794FPk0iRu\nMBK88m9slX8s4hd4EBLVKfqlTDatnk+3dAs4VOK0fLJwCD91L2n4ETONXizTJ3C3\nqfxBXHH30AInjGk35TbT\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@multiview-video-streaming-app.iam.gserviceaccount.com",
+  "client_id": "117468372876583207377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40multiview-video-streaming-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

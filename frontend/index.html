@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multi-Camera Streamer</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <div class="auth-container" id="authContainer">
+    <button id="googleLogin">Login with Google</button>
+  </div>
+
+  <div class="app-container" id="appContainer" style="display: none;">
+    <div class="camera-controls">
+      <div class="camera-selector">
+        <select id="cameraSelect"></select>
+        <button id="addCamera">Add Camera</button>
+        <button id="refreshCameras">🔄</button>
+      </div>
+    </div>
+    
+    <!-- New grid container for multiple camera views -->
+    <div class="camera-grid" id="cameraGrid">
+      <!-- Camera views will be added here dynamically -->
+    </div>
+    
+    <div class="stream-controls">
+      <select id="platformSelect">
+        <option value="youtube">YouTube</option>
+        <option value="facebook">Facebook</option>
+      </select>
+      <input id="streamKey" placeholder="Stream Key">
+      <button id="startStream">Go Live</button>
+      <button id="stopStream" disabled>Stop Stream</button>
+    </div>
+
+    <div class="recording-controls">
+      <button id="startRecording">⏺️ Record</button>
+      <button id="stopRecording" disabled>⏹️ Stop</button>
+    </div>
+  </div>
+
+  <script type="module" src="firebase-config.js"></script>
+  <script type="module" src="script.js"></script>
+</body>
+</html>
